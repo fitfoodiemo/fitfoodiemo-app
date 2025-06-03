@@ -3,6 +3,10 @@
     "name": "Fitfoodiemo",
     "slug": "fitfoodiemo-app",
     "version": "1.0.0",
+    "extra": {
+      "eas": {
+      "projectId":
+        "996049c6-3da1-41a0-8544-bcd6a1ae56a4"
     "android": {
       "package": "com.fitfoodiemo.app",
       "versionCode": 1
